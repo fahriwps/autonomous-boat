@@ -1,5 +1,5 @@
-#ifndef imageProcessing_H
-#define imageProcessing_H
+#ifndef IMAGEPROCESSING_H
+#define IMAGEPROCESSING_H
 
 using namespace std;
 using namespace cv;
