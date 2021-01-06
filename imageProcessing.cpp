@@ -5,7 +5,6 @@
 #include <iostream>
 #endif
 
-#include "stdafx.h"
 using namespace std;
 using namespace cv; 
 
